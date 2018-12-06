@@ -4,8 +4,9 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon server.js"
-  },
+   "start":"node src/server.js",
+   "postinstall":"tsc"
+},
   "author": "",
   "license": "ISC",
   "dependencies": {
