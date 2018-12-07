@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
+   "engines": {
+    "npm": "6.4.1",
+    "node": "8.11.3"
+},
   "scripts": {
     "start": "node server.js"
   },
